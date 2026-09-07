@@ -28,6 +28,7 @@ Swift. SwiftUI scenes + Metal shaders → MP4.
 
 ### Background
 
+- **ex-Head of Edge AI, Sarvam AI**
 - **ex-CTO, Collectiv AI** — shipped a coding agent in 2023, on GPT-3.5, back when the model would
   not reliably hold a tool schema, keep call ordering straight, or preserve state across turns. The
   three failure classes below were things you fixed by hand then, before frameworks existed to hide

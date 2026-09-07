@@ -30,8 +30,8 @@ Swift. SwiftUI scenes + Metal shaders → MP4.
 
 - **ex-CTO, Collectiv AI** — shipped a coding agent in 2023, on GPT-3.5, back when the model would
   not reliably hold a tool schema, keep call ordering straight, or preserve state across turns. The
-  three failure classes below were things you fixed by hand then, before frameworks existed to hide
-  them.
+  three failure classes below are ones I fixed by hand back then, before any framework existed to
+  hide them.
 - Building in AI since the GPT-2 evals days
 - Now at **Otonomy Corp** — autonomy stacks for GPS-denied navigation and onboard perception
 
